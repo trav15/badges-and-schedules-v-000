@@ -17,4 +17,5 @@ def assign_rooms(attendees)
     room_assignments.push("Hello, #{attendees[speaker]}! You'll be assigned to room room_num!")
     room_num += 1
   end
+  return room_assignments
 end
