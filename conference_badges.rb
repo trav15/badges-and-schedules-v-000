@@ -1,3 +1,3 @@
 def badge_make(name)
-  return "Hello, m"
+  return "Hello, my name is #{name}"
 end
